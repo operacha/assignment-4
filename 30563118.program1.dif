@@ -1,4 +1,5 @@
 This difference file has been created by IDA
 
 30563118.program1.exe
-000004BE: 74 75
+000004BE: 74 85
+000004BF: 3E C9
